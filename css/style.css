@@ -24,3 +24,11 @@ button:hover{
 	cursor: pointer;
 	box-shadow: 0 2px 4px rgba(0, 79, 255, 0.6);
 }
+
+h1{
+    position: absolute;
+}
+
+h2{
+    position: absolute;
+}
